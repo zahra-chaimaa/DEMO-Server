@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HIBERNATE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../HIBERNATE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<DataBaseConfiguration>
+	<HibernateConfigFile>C:\DEMO-Server\demo\src\main\java\com\example\demo\model\hibernate.cfg.xml</HibernateConfigFile>
+	<DescriptionMappingFile>demo\src\main\java\com\example\demo\model\caseDescription.hbm.xml</DescriptionMappingFile>
+	<DescriptionClassName>com.example.demo.model.caseDescription</DescriptionClassName>
+	<SolutionClassName>com.example.demo.model.caseSolution</SolutionClassName>
+	<SolutionMappingFile>demo\src\main\java\com\example\demo\model\caseSolution.hbm.xml</SolutionMappingFile>
+
+</DataBaseConfiguration>
